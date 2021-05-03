@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo "add new update"
-git add . && git commit -m "update4" && git push
+git add . && git commit -m "update5" && git push
