@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "add new update"
+git add . && git commit -m "update3" && git push
